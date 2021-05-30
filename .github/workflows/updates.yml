@@ -8,14 +8,12 @@
 # Instead, change your .upptimerc.yml configuration: https://upptime.js.org/docs
 
 name: Updates CI
-
 on:
   schedule:
     - cron: "0 3 * * *"
   repository_dispatch:
     types: [updates]
   workflow_dispatch:
-
 jobs:
   release:
     name: Deploy updates
