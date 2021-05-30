@@ -8,6 +8,7 @@
 # Instead, change your .upptimerc.yml configuration: https://upptime.js.org/docs
 
 name: Setup CI
+
 on:
   push:
     paths:
@@ -15,6 +16,7 @@ on:
   repository_dispatch:
     types: [setup]
   workflow_dispatch:
+
 jobs:
   release:
     name: Setup Upptime
