@@ -12,6 +12,8 @@ sites:
     url: https://git.projetignis.fr
   - name: S3
     url: https://s3.projetignis.fr
+    expectedStatusCodes:
+      - 401
   - name: Wiki
     url: https://wiki.projetignis.fr
 
