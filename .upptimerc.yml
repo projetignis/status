@@ -4,10 +4,10 @@ repo: uptime
 sites:
   - name: Home
     url: https://www.projetignis.fr
-  - name: Vault
-    url: https://vault.projetignis.fr
   - name: Mail
     url: https://mail.projetignis.fr
+  - name: Vault
+    url: https://vault.projetignis.fr
   - name: Git
     url: https://git.projetignis.fr
   - name: S3
