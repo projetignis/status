@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.projetignis.fr",
     "slug": "home",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "98.06%",
     "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
-    "time": 222,
-    "timeDay": 240,
-    "timeWeek": 224,
-    "timeMonth": 222,
-    "timeYear": 222,
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
+    "time": 230,
+    "timeDay": 260,
+    "timeWeek": 247,
+    "timeMonth": 230,
+    "timeYear": 230,
     "dailyMinutesDown": {
       "2021-06-08": 28
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 518,
-    "timeDay": 411,
-    "timeWeek": 426,
-    "timeMonth": 518,
-    "timeYear": 518,
+    "time": 511,
+    "timeDay": 431,
+    "timeWeek": 431,
+    "timeMonth": 511,
+    "timeYear": 511,
     "dailyMinutesDown": {}
   },
   {
@@ -49,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 430,
-    "timeDay": 415,
-    "timeWeek": 422,
+    "timeDay": 431,
+    "timeWeek": 440,
     "timeMonth": 430,
     "timeYear": 430,
     "dailyMinutesDown": {}
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1335,
-    "timeDay": 1561,
-    "timeWeek": 1344,
-    "timeMonth": 1335,
-    "timeYear": 1335,
+    "time": 1348,
+    "timeDay": 1526,
+    "timeWeek": 1390,
+    "timeMonth": 1348,
+    "timeYear": 1348,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 414,
-    "timeDay": 584,
-    "timeWeek": 432,
-    "timeMonth": 414,
-    "timeYear": 414,
+    "time": 426,
+    "timeDay": 586,
+    "timeWeek": 462,
+    "timeMonth": 426,
+    "timeYear": 426,
     "dailyMinutesDown": {
       "2021-05-30": 2
     }
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 836,
-    "timeDay": 901,
-    "timeWeek": 796,
-    "timeMonth": 836,
-    "timeYear": 836,
+    "time": 847,
+    "timeDay": 990,
+    "timeWeek": 842,
+    "timeMonth": 847,
+    "timeYear": 847,
     "dailyMinutesDown": {}
   }
 ]
