@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/vault.projetignis.fr",
     "slug": "vault",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.86%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 405,
     "timeDay": 290,
     "timeWeek": 361,
     "timeMonth": 405,
     "timeYear": 405,
     "dailyMinutesDown": {
-      "2021-06-13": 8
+      "2021-06-13": 28
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://favicons.githubusercontent.com/git.projetignis.fr",
     "slug": "git",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.86%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 1326,
     "timeDay": 1233,
     "timeWeek": 1383,
     "timeMonth": 1326,
     "timeYear": 1326,
     "dailyMinutesDown": {
-      "2021-06-13": 8
+      "2021-06-13": 28
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://favicons.githubusercontent.com/s3.projetignis.fr",
     "slug": "s3",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.85%",
+    "uptimeDay": "98.13%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 416,
     "timeDay": 367,
     "timeWeek": 452,
     "timeMonth": 416,
     "timeYear": 416,
     "dailyMinutesDown": {
-      "2021-06-13": 7,
+      "2021-06-13": 27,
       "2021-05-30": 2
     }
   },
@@ -106,18 +106,18 @@
     "icon": "https://favicons.githubusercontent.com/wiki.projetignis.fr",
     "slug": "wiki",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.87%",
+    "uptimeDay": "98.23%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 810,
     "timeDay": 738,
     "timeWeek": 772,
     "timeMonth": 810,
     "timeYear": 810,
     "dailyMinutesDown": {
-      "2021-06-13": 5
+      "2021-06-13": 25
     }
   }
 ]
