@@ -33,3 +33,8 @@ status-website:
       href: https://www.projetignis.fr
     - title: GitHub
       href: https://github.com/$OWNER
+  scripts:
+    - src: https://status.projetignis.fr/js/analytics.js
+  links:
+    - rel: stylesheet
+      href: https://status.projetignis.fr/css/styles.css
