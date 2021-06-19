@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 192,
-    "timeDay": 190,
-    "timeWeek": 142,
-    "timeMonth": 192,
-    "timeYear": 192,
+    "time": 193,
+    "timeDay": 213,
+    "timeWeek": 151,
+    "timeMonth": 193,
+    "timeYear": 193,
     "dailyMinutesDown": {
       "2021-06-08": 28
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
-    "time": 443,
-    "timeDay": 436,
-    "timeWeek": 385,
-    "timeMonth": 443,
-    "timeYear": 443,
+    "time": 442,
+    "timeDay": 419,
+    "timeWeek": 386,
+    "timeMonth": 442,
+    "timeYear": 442,
     "dailyMinutesDown": {
       "2021-06-13": 36
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "99.48%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.81%",
-    "time": 408,
-    "timeDay": 567,
-    "timeWeek": 394,
-    "timeMonth": 408,
-    "timeYear": 408,
+    "time": 407,
+    "timeDay": 476,
+    "timeWeek": 393,
+    "timeMonth": 407,
+    "timeYear": 407,
     "dailyMinutesDown": {
       "2021-06-13": 52
     }
@@ -65,16 +65,16 @@
     "icon": "https://favicons.githubusercontent.com/git.projetignis.fr",
     "slug": "git",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 1204,
-    "timeDay": 1357,
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 1199,
+    "timeDay": 1204,
     "timeWeek": 1049,
-    "timeMonth": 1204,
-    "timeYear": 1204,
+    "timeMonth": 1199,
+    "timeYear": 1199,
     "dailyMinutesDown": {
       "2021-06-13": 51
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "99.49%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.81%",
-    "time": 402,
-    "timeDay": 598,
-    "timeWeek": 378,
-    "timeMonth": 402,
-    "timeYear": 402,
+    "time": 401,
+    "timeDay": 483,
+    "timeWeek": 377,
+    "timeMonth": 401,
+    "timeYear": 401,
     "dailyMinutesDown": {
       "2021-06-13": 51,
       "2021-05-30": 2
@@ -111,11 +111,11 @@
     "uptimeWeek": "99.51%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.82%",
-    "time": 796,
-    "timeDay": 865,
-    "timeWeek": 772,
-    "timeMonth": 796,
-    "timeYear": 796,
+    "time": 791,
+    "timeDay": 756,
+    "timeWeek": 763,
+    "timeMonth": 791,
+    "timeYear": 791,
     "dailyMinutesDown": {
       "2021-06-13": 49
     }
@@ -131,11 +131,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 634,
-    "timeDay": 731,
-    "timeWeek": 634,
-    "timeMonth": 634,
-    "timeYear": 634,
+    "time": 625,
+    "timeDay": 634,
+    "timeWeek": 625,
+    "timeMonth": 625,
+    "timeYear": 625,
     "dailyMinutesDown": {}
   },
   {
@@ -149,11 +149,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 565,
-    "timeDay": 637,
-    "timeWeek": 565,
-    "timeMonth": 565,
-    "timeYear": 565,
+    "time": 552,
+    "timeDay": 542,
+    "timeWeek": 552,
+    "timeMonth": 552,
+    "timeYear": 552,
     "dailyMinutesDown": {}
   }
 ]
