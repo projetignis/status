@@ -2,6 +2,18 @@ owner: projetignis
 repo: status
 
 sites:
+  - name: Alfa
+    url: https://alfa.projetignis.fr
+    expectedStatusCodes:
+      - 404
+  - name: Bravo
+    url: https://bravo.projetignis.fr
+    expectedStatusCodes:
+      - 404
+  - name: Charlie
+    url: https://charlie.projetignis.fr
+    expectedStatusCodes:
+      - 404
   - name: Home
     url: https://www.projetignis.fr
   - name: Status
@@ -30,7 +42,7 @@ sites:
     url: https://monitor.projetignis.fr
   - name: Chat
     url: https://chat.projetignis.fr
-    
+
 status-website:
   cname: status.projetignis.fr
   name: Ignis
