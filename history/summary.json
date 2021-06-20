@@ -36,7 +36,7 @@
     "timeMonth": 219,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2021-06-20": 43,
+      "2021-06-20": 46,
       "2021-06-13": 239,
       "2021-06-08": 28,
       "2021-05-30": 2
@@ -109,19 +109,19 @@
     "url": "https://registry.projetignis.fr",
     "icon": "https://favicons.githubusercontent.com/registry.projetignis.fr",
     "slug": "registry",
-    "status": "down",
-    "uptime": "2.71%",
-    "uptimeDay": "2.71%",
-    "uptimeWeek": "2.71%",
-    "uptimeMonth": "2.71%",
-    "uptimeYear": "2.71%",
-    "time": 401,
-    "timeDay": 401,
-    "timeWeek": 401,
-    "timeMonth": 401,
-    "timeYear": 401,
+    "status": "up",
+    "uptime": "3.40%",
+    "uptimeDay": "3.40%",
+    "uptimeWeek": "3.40%",
+    "uptimeMonth": "3.40%",
+    "uptimeYear": "3.40%",
+    "time": 396,
+    "timeDay": 396,
+    "timeWeek": 396,
+    "timeMonth": 396,
+    "timeYear": 396,
     "dailyMinutesDown": {
-      "2021-06-20": 1
+      "2021-06-20": 4
     }
   },
   {
