@@ -4,12 +4,16 @@ repo: status
 sites:
   - name: Home
     url: https://www.projetignis.fr
+  - name: Status
+    url: https://status.projetignis.fr
   - name: Mail
     url: https://mail.projetignis.fr
   - name: Vault
     url: https://vault.projetignis.fr
   - name: Git
     url: https://git.projetignis.fr
+  - name: Registry
+    url: https://registry.projetignis.fr
   - name: S3
     url: https://s3.projetignis.fr
     expectedStatusCodes:
@@ -22,7 +26,11 @@ sites:
     url: https://cloud.projetignis.fr
   - name: Analytics
     url: https://analytics.projetignis.fr
-
+  - name: Monitor
+    url: https://monitor.projetignis.fr
+  - name: Chat
+    url: https://chat.projetignis.fr
+    
 status-website:
   cname: status.projetignis.fr
   name: Ignis
