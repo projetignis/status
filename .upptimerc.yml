@@ -32,8 +32,6 @@ sites:
       - 200
       - 401
       - 403
-  - name: Wiki
-    url: https://wiki.projetignis.fr
   - name: Cloud
     url: https://cloud.projetignis.fr
   - name: Analytics
