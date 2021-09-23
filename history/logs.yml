@@ -1,7 +1,7 @@
 url: https://logs.projetignis.fr
-status: down
-code: 404
-responseTime: 297
-lastUpdated: 2021-09-23T23:29:02.910Z
+status: up
+code: 200
+responseTime: 2082
+lastUpdated: 2021-09-23T23:41:07.808Z
 startTime: Tue Aug 31 2021 23:24:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
