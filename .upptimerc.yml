@@ -32,6 +32,14 @@ sites:
       - 200
       - 401
       - 403
+  - name: CDN
+    url: https://cdn.projetignis.fr
+    expectedStatusCodes:
+      - 200
+      - 401
+      - 403
+  - name: API
+    url: https://api.projetignis.fr
   - name: Cloud
     url: https://cloud.projetignis.fr
   - name: Analytics
@@ -42,6 +50,12 @@ sites:
     url: https://chat.projetignis.fr
   - name: Sentry
     url: https://sentry.projetignis.fr
+  - name: Pages
+    url: https://projetignis.page
+    expectedStatusCodes:
+      - 200
+      - 302
+      - 404
 
 status-website:
   cname: status.projetignis.fr
