@@ -40,8 +40,8 @@ sites:
     url: https://monitor.projetignis.fr
   - name: Chat
     url: https://chat.projetignis.fr
-  - name: Logs
-    url: https://logs.projetignis.fr
+  - name: Sentry
+    url: https://sentry.projetignis.fr
 
 status-website:
   cname: status.projetignis.fr
