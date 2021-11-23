@@ -25,7 +25,7 @@ sites:
   - name: Git
     url: https://git.projetignis.fr
   - name: Git (SSH)
-    check: 'tcp-ping'
+    check: tcp-ping
     url: projetignis.fr
     port: 22
   - name: Registry
@@ -60,7 +60,35 @@ sites:
       - 200
       - 302
       - 404
-
+  - name: SMTP (25)
+    check: tcp-ping
+    url: mail.projetignis.fr
+    port: 25
+  - name: ESMTP (465)
+    check: tcp-ping
+    url: mail.projetignis.fr
+    port: 465
+  - name: ESMTP (587)
+    check: tcp-ping
+    url: mail.projetignis.fr
+    port: 587
+  - name: POP3 (110)
+    check: tcp-ping
+    url: mail.projetignis.fr
+    port: 110
+  - name: POP3 (995)
+    check: tcp-ping
+    url: mail.projetignis.fr
+    port: 995
+  - name: IMAP4 (143)
+    check: tcp-ping
+    url: mail.projetignis.fr
+    port: 143
+  - name: IMAP4 (993)
+    check: tcp-ping
+    url: mail.projetignis.fr
+    port: 993
+    
 status-website:
   cname: status.projetignis.fr
   name: Ignis
