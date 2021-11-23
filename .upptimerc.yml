@@ -24,6 +24,10 @@ sites:
     url: https://vault.projetignis.fr
   - name: Git
     url: https://git.projetignis.fr
+  - name: Git (SSH)
+    check: 'tcp-ping'
+    url: projetignis.fr
+    port: 22
   - name: Registry
     url: https://registry.projetignis.fr
   - name: S3
