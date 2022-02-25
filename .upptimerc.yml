@@ -46,14 +46,8 @@ sites:
     url: https://api.projetignis.fr
   - name: Cloud
     url: https://cloud.projetignis.fr
-  - name: Analytics
-    url: https://analytics.projetignis.fr
-  - name: Monitor
-    url: https://monitor.projetignis.fr
   - name: Chat
     url: https://chat.projetignis.fr
-  - name: Sentry
-    url: https://sentry.projetignis.fr
   - name: Pages
     url: https://projetignis.page
     expectedStatusCodes:
