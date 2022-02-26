@@ -48,6 +48,8 @@ sites:
     url: https://cloud.projetignis.fr
   - name: Chat
     url: https://chat.projetignis.fr
+  - name: SSO
+    url: https://id.projetignis.fr
   - name: Pages
     url: https://projetignis.page
     expectedStatusCodes:
@@ -82,6 +84,11 @@ sites:
     check: tcp-ping
     url: mail.projetignis.fr
     port: 993
+  - name: IoT (Broker)
+    check: tcp-ping
+    url: iot.projetignis.net
+    port: 5671
+    
     
 status-website:
   cname: status.projetignis.fr
