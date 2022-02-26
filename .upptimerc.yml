@@ -48,6 +48,14 @@ sites:
     url: https://cloud.projetignis.fr
   - name: Chat
     url: https://chat.projetignis.fr
+  - name: Hydra
+    url: https://hydra.projetignis.fr
+    expectedStatusCodes:
+      - 404
+  - name: Kratos
+    url: https://kratos.projetignis.fr
+    expectedStatusCodes:
+      - 404
   - name: SSO
     url: https://id.projetignis.fr
   - name: Pages
