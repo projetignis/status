@@ -44,6 +44,9 @@ sites:
       - 403
   - name: API
     url: https://api.projetignis.fr
+    expectedStatusCodes:
+      - 200
+      - 404
   - name: Cloud
     url: https://cloud.projetignis.fr
   - name: Chat
