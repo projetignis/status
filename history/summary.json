@@ -82,7 +82,7 @@
     "slug": "status",
     "status": "up",
     "uptime": "99.04%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.04%",
@@ -92,6 +92,7 @@
     "timeMonth": 173,
     "timeYear": 180,
     "dailyMinutesDown": {
+      "2022-03-25": 0,
       "2022-03-05": 27,
       "2022-03-04": 11,
       "2022-02-26": 103,
@@ -390,18 +391,20 @@
     "url": "https://id.projetignis.fr",
     "icon": "https://favicons.githubusercontent.com/id.projetignis.fr",
     "slug": "sso",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 409,
-    "timeDay": 330,
-    "timeWeek": 393,
-    "timeMonth": 409,
-    "timeYear": 409,
-    "dailyMinutesDown": {}
+    "time": 406,
+    "timeDay": 319,
+    "timeWeek": 382,
+    "timeMonth": 406,
+    "timeYear": 406,
+    "dailyMinutesDown": {
+      "2022-03-25": 0
+    }
   },
   {
     "name": "Pages",
